@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: gray;
+    font-family: Verdana, sans-serif;
+}
+
+h2{
+    font-size: 32px;
+}
+
+.food{
+    height: 350px;
+    width: 350px;
+}
